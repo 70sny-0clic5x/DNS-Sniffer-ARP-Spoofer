@@ -36,7 +36,7 @@ Unlike basic scripts, this tool includes an **Intelligent Interface Discovery En
 
 > [!TIP]
 > **[Screenshot 1.png]**
-> **[Screenshot 2.png]**
+> **[Screenshot2.png]**
 
 ---
 
