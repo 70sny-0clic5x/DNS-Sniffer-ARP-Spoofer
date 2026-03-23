@@ -35,7 +35,8 @@ Unlike basic scripts, this tool includes an **Intelligent Interface Discovery En
 ## 📸 Demonstration
 
 > [!TIP]
-> **[screen.png]**
+> **[Screenshot 1.png]**
+> **[Screenshot 2.png]**
 
 ---
 
@@ -59,7 +60,7 @@ Unlike basic scripts, this tool includes an **Intelligent Interface Discovery En
 
 2.  **Run with Administrative/Root Privileges:**
     * **Windows:** Run Terminal as Administrator.
-    * **Linux:** `sudo python3 hunter_sniffer.py`
+    * **Linux:** `sudo python3 70SNY_sniffer.py`
 
 3.  **Operation:** Select your physical interface index/name from the generated list, and the tool will handle the rest.
 
