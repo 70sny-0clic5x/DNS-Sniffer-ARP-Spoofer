@@ -34,9 +34,8 @@ Unlike basic scripts, this tool includes an **Intelligent Interface Discovery En
 
 ## 📸 Demonstration
 
-> [!TIP]
-> **[Screenshot 1.png]**
-> **[Screenshot2.png]**
+![Interface Scan](./Screenshot1.png)
+![Live Sniffing](./Screenshot2.png)
 
 ---
 
