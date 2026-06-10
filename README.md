@@ -1,10 +1,10 @@
-# 🛡️ 70SNY_0xHUNTER: Multi-Platform DNS Sniffer & ARP Spoofer
+#  Multi-Platform DNS Sniffer & ARP Spoofer
 
 A high-performance network security tool designed for real-time traffic interception and DNS query analysis. This tool automates the process of **ARP Cache Poisoning** to redirect traffic, allowing for the monitoring of host activities across a local area network (LAN).
 
 ---
 
-## 📖 Technical Overview
+##  Technical Overview
 
 This tool acts as a **"Man-in-the-Middle" (MitM)** framework. It leverages the **Scapy** library to craft and inject malicious ARP packets, tricking the target and the gateway into routing traffic through the attacker's machine. 
 
@@ -12,7 +12,7 @@ Unlike basic scripts, this tool includes an **Intelligent Interface Discovery En
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
 * **Cross-Platform Compatibility:** Native support for both **Windows** (PowerShell integration) and **Linux** (Sysctl integration).
 * **Smart Interface Selection:** Automatically scans and identifies physical network interfaces while ignoring clutter from VMs or VPNs.
@@ -32,7 +32,7 @@ Unlike basic scripts, this tool includes an **Intelligent Interface Discovery En
 
 ---
 
-## 📸 Demonstration
+##  Demonstration
 
 ![Interface Scan](./Screenshot1.png)
 
@@ -40,7 +40,7 @@ Unlike basic scripts, this tool includes an **Intelligent Interface Discovery En
 
 ---
 
-## 👤 Developer Profile
+##  Developer Profile
 
 **Author:** **Hadeer** (`70SNY_0xHUNTER`)  
 **Focus:** Cybersecurity Researcher | OSINT Framework Developer | Penetration Tester  
